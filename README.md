@@ -1,4 +1,4 @@
-### Plugin Name
+# ThemeDiff
 ##### Contributors: Jacezilla, Jake Love
 ##### Donate link: http://
 ##### Tags: theme, templates, debug, difference
