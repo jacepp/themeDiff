@@ -1,6 +1,5 @@
 # ThemeDiff
 ##### Contributors: Jacezilla, Jake Love
-##### Donate link: http://
 ##### Tags: theme, templates, debug, difference
 ##### Requires at least: 3.6
 ##### Tested up to: 3.6
