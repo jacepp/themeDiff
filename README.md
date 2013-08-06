@@ -20,7 +20,7 @@ Whenever any of your themes have an update, ThemeDiff will automatically check t
 
 ### Installation
 
-1. Upload `theme-diff.php` to the `/wp-content/plugins/` directory
+1. Upload `themeDiff` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 ### Frequently Asked Questions
