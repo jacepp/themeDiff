@@ -1,5 +1,5 @@
 # ThemeDiff
-**Contributors:** Jacezilla, Jake Love
+**Contributors:** Jacezilla, [Jake Love](https://github.com/rockymountainhigh1943)
 
 **Tags:** theme, templates, debug, difference
 
