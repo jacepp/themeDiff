@@ -17,9 +17,9 @@ ThemeDiff will allow users to preview changes that have been made to newly updat
 
 ### Description
 
-ThemeDiff is an easy-to-use plugin that will allow you to preview the difference between your current working theme and the updated version of your theme. This will allow you to make sure that if you do decide to update, you will be able to foresee any potential issues.
+ThemeDiff is an easy-to-use plugin that will allow you to preview the difference between your current working child theme and the updated version of your parent theme. This will allow you to make sure that if you do decide to update, you will be able to foresee any potential issues.
 
-Maybe you are not the best at reading through code line for line, that's okay. ThemeDiff will have a probability meter that show the likelyhood of your theme breaking in percentages. 
+Maybe you are not the best at reading through code line for line, that's okay. ThemeDiff will have a probability meter that will show the likelyhood of your theme breaking in percentages. 
 
 Whenever any of your themes have an update, ThemeDiff will automatically check the difference, collect the probability of breakage and show them to you before you make the mistake of updating unaware. 
 
